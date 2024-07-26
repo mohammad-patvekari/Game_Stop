@@ -1,0 +1,12 @@
+.style1{
+    color: rebeccapurple;
+
+}
+
+ .body{
+    background-image: url('/static/image/img.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
